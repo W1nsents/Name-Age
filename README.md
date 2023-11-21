@@ -1,2 +1,2 @@
 # Name-Age
-by Winsent
+Your name and age. With the necessary exception handling and removal of unnecessary characters.
